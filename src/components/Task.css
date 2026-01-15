@@ -1,0 +1,8 @@
+.task {
+    display: flex;
+    border: white 1px solid;
+    border-radius: 12px;
+    width: 680px;
+    padding: 12px;
+    justify-content: space-between;
+}
